@@ -4,18 +4,14 @@ cat meow🐈
 ``` cat - concatenate files and print on the standard output```
 
 >
-Usage:
-```bash
-cat filename
-```
 hint:
 ```bash
-cat flag
+cat filename
 ```
 Bonus:\
 Other way to cat:\
 ```bash
-echo "$(<flag)" 
+echo "$(<filename)" 
 ```
 
 <details>
