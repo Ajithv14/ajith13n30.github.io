@@ -13,7 +13,7 @@ hint:
 cat flag
 ```
 Bonus:\
-Other way to cat:\
+Other way to cat:
 ```bash
 echo "$(<flag)" 
 ```
