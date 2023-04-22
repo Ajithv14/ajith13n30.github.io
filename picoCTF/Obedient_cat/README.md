@@ -3,11 +3,6 @@ cat meow🐈
 > simple but useful command in linux\
 ``` cat - concatenate files and print on the standard output```
 
->
-Usage:
-```bash
-cat filename
-```
 hint:
 ```bash
 cat flag
