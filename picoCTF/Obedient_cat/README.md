@@ -3,7 +3,6 @@ cat meow🐈
 > simple but useful command in linux\
 ``` cat - concatenate files and print on the standard output```
 
->
 hint:
 ```bash
 cat filename
@@ -17,7 +16,8 @@ echo "$(<filename)"
 <details>
 <summary>Spoiler</summary>
 
-```bash
+```
 picoCTF{s4n1ty_v3r1f13d_2aa22101}
 ```
+
 </details>
