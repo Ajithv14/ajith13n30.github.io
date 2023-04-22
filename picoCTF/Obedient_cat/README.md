@@ -33,9 +33,3 @@ function myFunction() {
   }
 }
 </script>
-
-```{toggle}
-Some hidden toggle content!
-
-![](../images/cool.jpg)
-```
