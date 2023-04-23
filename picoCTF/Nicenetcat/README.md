@@ -18,3 +18,8 @@ https://www.duplichecker.com/ascii-to-text.php
 picoCTF{g00d_k1tty!_n1c3_k1tty!_9b3b7392}
 
 </details>
+
+## Bonus:
+```bash
+nc mercury.picoctf.net 35652| awk '{printf("%c",$1)}' 
+```
