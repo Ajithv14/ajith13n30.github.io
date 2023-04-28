@@ -1,6 +1,3 @@
-<head>
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-40VHMPGT8D"></script>
-</head>
 # Learn CTF with me mostly writeups
 ## picoGym Practice Challenges
 ### General skills
