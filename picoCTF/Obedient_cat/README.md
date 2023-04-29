@@ -7,7 +7,7 @@ wget https://mercury.picoctf.net/static/33996e32dce022205a6a36f69aba56f0/flag
 ```
 cat meow🐈
 > simple but useful command in linux\
-``` cat - concatenate files and print on the standard output```
+` cat - concatenate files and print on the standard output`
 
 ### hint:
 ```bash

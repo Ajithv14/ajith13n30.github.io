@@ -32,7 +32,7 @@ picoCTF{d15a5m_t34s3r_f6c48608}
 ## Bonus:
 Easy way
 
-Without running the script we can extract the strings using ``` strings``` command.
+Without running the script we can extract the strings using ` strings` command.
 ```bash
 strings static|grep pico
 ```

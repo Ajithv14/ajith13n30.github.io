@@ -24,7 +24,7 @@ picoCTF{b1scu1ts_4nd_gr4vy_30e77291}
 
 ## Bonus:
 
-Without running the script we can extract the strings using ``` strings``` command.
+Without running the script we can extract the strings using ` strings` command.
 ```bash
 strings warm|grep pico
 ```

@@ -9,3 +9,4 @@
 * [Nice netcat...](/picoCTF/Nicenetcat/)
 * [Static ain't always noise](/picoCTF/Static_aint_always_noise/)
 * [Tab, Tab, Attack](/picoCTF/TabTabAttack/)
+* [Magikarp Ground Mission](/picoCTF/MagikarpGroundMission/)
