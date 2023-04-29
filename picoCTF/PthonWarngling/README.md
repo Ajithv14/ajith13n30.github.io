@@ -13,7 +13,7 @@ $ wget https://mercury.picoctf.net/static/b351a89e0bc6745b00716849105f87c6/pw.tx
 #encoded flag
 $ wget https://mercury.picoctf.net/static/b351a89e0bc6745b00716849105f87c6/flag.txt.en
 ```
-> for understanding the challenge read the python script by ```less ende.py``` from here we understand the way of encoding and decoding 
+> for understanding the challenge read the python script by `less ende.py` from here we understand the way of encoding and decoding 
 
 ```bash
 $ python ende.py --help        
