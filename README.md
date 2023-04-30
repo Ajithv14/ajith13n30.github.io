@@ -2,6 +2,10 @@
 ## picoGym Practice Challenges
 ### General skills
 #### picoCTF 2023
+* [Permissions](/picoCTF/Permissions/)
+* [repetitions](/picoCTF/repetitions/)
+* [useless](/picoCTF/useless/)
+* [Special](/picoCTF/Special/)
 * [Specialer](/picoCTF/Specialer/)
 
 #### picoCTF 2021
