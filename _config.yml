@@ -1,5 +1,5 @@
 # remote_theme: pages-themes/hacker@v0.2.0
-remote_theme: intellizone/hacker@v1
+remote_theme: intellizone/hacker
 google_analytics: G-40VHMPGT8D
 google_adsense: pub-9225181492831805
 plugins:
