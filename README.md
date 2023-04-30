@@ -3,7 +3,7 @@
 ### General skills
 #### picoCTF 2023
 * [Specialer](/picoCTF/Specialer/)
-
+* [Special](/picoCTF/Special/)
 #### picoCTF 2021
 * [Obedient Cat](/picoCTF/Obedient_cat/)
 * [Python Wrangling](/picoCTF/PthonWarngling/)
