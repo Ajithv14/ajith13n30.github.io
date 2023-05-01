@@ -10,6 +10,10 @@
 * [Special](/picoCTF/Special/)
 * [Specialer](/picoCTF/Specialer/)
 
+#### Beginner picoMini 2022
+* [Codebook](/picoCTF/Codebook/)
+* [convertme.py](/picoCTF/convertme.py/)
+
 #### picoCTF 2021
 * [Obedient Cat](/picoCTF/Obedient_cat/)
 * [Python Wrangling](/picoCTF/PthonWarngling/)
