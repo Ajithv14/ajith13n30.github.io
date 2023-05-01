@@ -10,6 +10,14 @@
 * [Special](/picoCTF/Special/)
 * [Specialer](/picoCTF/Specialer/)
 
+#### Beginner picoMini 2022
+* [Codebook](/picoCTF/Codebook/)
+* [convertme.py](/picoCTF/convertme.py/)
+* [fixme1.py](/picoCTF/fixme1.py/)
+* [fixme2.py](/picoCTF/fixme2.py/)
+* [Glitch Cat](/picoCTF/GlitchCat/)
+* [HashingJobApp](/picoCTF/HashingJobApp/)
+
 #### picoCTF 2021
 * [Obedient Cat](/picoCTF/Obedient_cat/)
 * [Python Wrangling](/picoCTF/PthonWarngling/)
