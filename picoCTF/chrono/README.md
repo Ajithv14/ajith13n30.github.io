@@ -7,7 +7,7 @@ Additional details will be available after launching your challenge instance.
 >
 >`ssh -p port_number username@server`
 
-> cron is scheduled job running in a server like alarm timer. We set a time and it rings at that specific time. Simillarly if i set a cron to happen at specific time everyday I can do that in crontab
+> cron is scheduled job running in a server like alarm timer. We set a time and it rings at that specific time. Similarly if i set a cron to happen at specific time everyday I can do that in crontab
 
 hint:
 ```bash
