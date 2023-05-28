@@ -17,6 +17,10 @@
 * [fixme2.py](/picoCTF/fixme2.py/)
 * [Glitch Cat](/picoCTF/GlitchCat/)
 * [HashingJobApp](/picoCTF/HashingJobApp/)
+* [PW Crack 1](/picoCTF/PW_Crack_1/)
+* [PW Crack 2](/picoCTF/PW_Crack_2/)
+* [PW Crack 3](/picoCTF/PW_Crack_3/)
+* [PW Crack 4](/picoCTF/PW_Crack_4/)
 
 #### picoCTF 2021
 * [Obedient Cat](/picoCTF/Obedient_cat/)
