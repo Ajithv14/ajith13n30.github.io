@@ -1,6 +1,7 @@
 # remote_theme: pages-themes/hacker@v0.2.0
-remote_theme: Ajithv14/hacker@v1
+remote_theme: Ajithv14/hacker@v2
 google_analytics: G-G8GXW8WVRT
+google_tagmanager: GTM-MB7WMJDB
 # google_adsense: pub-9225181492831805
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
